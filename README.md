@@ -74,4 +74,3 @@
 > 
 > - 최근주문수, 재주문율, 이용자리뷰 등 여러기준 반영 ("배달의민족"피셜)
 > 
-![baemin_answer](https://media.discordapp.net/attachments/746440481629536321/749474414499856454/IMG_6646.JPG?width=936&height=936)
