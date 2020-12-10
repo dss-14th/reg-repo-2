@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/68367393/101767381-7b1a0c00-3b27-11eb-8c9b-063308a2e754.png" width="100%" height="100%" alt="process">
 
 # 머신러닝 회귀분석 프로젝트
-[ 코드확인(html) ]()
+[코드확인(jupyter notebook)](https://github.com/dss-14th/reg-repo-2/commit/7567de401ba2e7d0527cbe06f4c3613c03073a2d)
 
 **팀원**   
    김재욱 [Charogi](https://github.com/Choragi)   
