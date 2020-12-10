@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/68367393/101767381-7b1a0c00-3b27-11eb-8c9b-063308a2e754.png" width="100%" height="100%" alt="process">
+
 # 배달의민족 맛집랭킹 진입 업체의 월간 매출액 예측
 
           - 배달의민족 앱 이용행태 데이터를 기반으로 업체별 매출액 선형회귀 분석 -
